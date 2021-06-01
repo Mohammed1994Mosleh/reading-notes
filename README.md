@@ -10,7 +10,7 @@ My name is mohammed mosleh iam 27 form jordan ,i have bchs of electrical enginee
 | read01 |    [link](read01.md)   |   
 | githupp |  [link](githupp.png) |
 |  1_6tmkrsxMAYNQST-YjAAAlA  |     [link](1_6tmkrsxMAYNQST-YjAAAlA.jpeg)      | 
-| lab01  |    [link](_config.yml)     | 
+| lab01  |    [link](lab01.md)     | 
 | read02   |      link      | 
 
 
