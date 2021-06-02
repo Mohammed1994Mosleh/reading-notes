@@ -41,3 +41,52 @@ ex. <img src="">
 
 ### Anatomy of an HTML document:
 ![Anatomy of an HTML document](https://www.oreilly.com/library/view/learning-web-design/9781449337513/httpatomoreillycomsourceoreillyimages2257981.png)
+### Semantics
+In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have or html.
+
+#### Semantic elements:
+
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
+Learn more
+HTML element reference on MDN
+Using HTML sections and outlines on MDN
+The meaning of semantics in computer science on Wikipedia
+Found a problem with this page?
+Source on GitHub
+Report a problem with this content on GitHub
+Want to fix the problem yourself? See our Contribution guide.
+Last modified: Feb 19, 2021, by MDN contributors
+
+Change your language
+Select your preferred language
+English (US)
+ Change language
+Related Topics
+MDN Web Docs Glossary
+SEO
+Some of semantic elements in HTML
+- <article>
+- <aside>
+- <details>
+- <figcaption>
+- <figure>
+- <footer>
+- <header>
+- <main>
+- <mark>
+- <nav>
+- <section>
+- <summary>
+- <time>
