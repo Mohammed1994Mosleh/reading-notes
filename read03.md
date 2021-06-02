@@ -44,17 +44,4 @@ ex. <img src="">
 ### Semantics
 In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have or html.
 
-#### Semantic elements:
-- <article>
-- <aside>
-- <details>
-- <figcaption>
-- <figure>
-- <footer>
-- <header>
-- <main>
-- <mark>
-- <nav>
-- <section>
-- <summary>
-- <time>
+
