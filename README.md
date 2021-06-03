@@ -10,7 +10,10 @@ My name is mohammed mosleh iam 27 form jordan ,i have bchs of electrical enginee
 | README |[link](README.md)| 
 | read01 |[link](read01.md)|   
 | lab01  |[link](lab01.md)| 
-| read02|link| 
+| read02|[link](read02.md)| 
+| read03|[link](read03.md)| 
+| read03b|[link](read03b.md)|
+| read06|[link](read06.md)|  
 
 
 
