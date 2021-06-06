@@ -14,6 +14,8 @@ My name is mohammed mosleh iam 27 form jordan ,i have bchs of electrical enginee
 | read03|[link](read03.md)| 
 | read03b|[link](read03b.md)|
 | read06|[link](read06.md)|  
+| read07|[link](read07.md)|  
+| read08|[link](read08.md)|  
 
 
 
